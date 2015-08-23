@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="95px" height="40px" viewBox="0 0 196 82" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="97.4968112%" id="linearGradient-1">
+            <stop stop-color="#FFDC1C" offset="0%"></stop>
+            <stop stop-color="#ECA501" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="96.6165885%" x2="50%" y2="0%" id="linearGradient-2">
+            <stop stop-color="#ECB201" offset="0%"></stop>
+            <stop stop-color="#A88E00" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iPad-Landscape" transform="translate(-645.000000, -406.000000)">
+            <g id="Group-+-Rectangle-1" transform="translate(640.000000, 137.000000)">
+                <g id="Group" transform="translate(9.000000, 273.000000)">
+                    <ellipse id="Oval-2" stroke="#6D6D6D" stroke-width="7" fill="url(#linearGradient-1)" cx="94" cy="37" rx="94" ry="37"></ellipse>
+                    <path d="M67,52 L46,52 L67.248707,8 L67,52 Z" id="Triangle-1" fill="url(#linearGradient-2)"></path>
+                    <path d="M104.375647,52 L83.3756465,52 L104.624353,8 L104.375647,52 Z" id="Triangle-1-Copy" fill="url(#linearGradient-2)"></path>
+                    <path d="M141.751293,52 L120.751293,52 L142,8 L141.751293,52 Z" id="Triangle-1-Copy-2" fill="url(#linearGradient-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
